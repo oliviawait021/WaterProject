@@ -243,6 +243,7 @@
 /Users/oliviafowler/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.csproj.CoreCompileInputs.cache
 /Users/oliviafowler/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.MvcApplicationPartsAssemblyInfo.cs
 /Users/oliviafowler/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/oliviafowler/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.sourcelink.json
 /Users/oliviafowler/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets.build.json
 /Users/oliviafowler/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets.development.json
 /Users/oliviafowler/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets/msbuild.WaterProject.API.Microsoft.AspNetCore.StaticWebAssets.props
